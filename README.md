@@ -18,7 +18,7 @@ Software engineer with **2+ years** of industry experience building high-availab
 `Python` `Golang` `Java` `TypeScript` `JavaScript` `SQL / PL/SQL` `C++` `PHP`
 
 **Frameworks & Libraries**
-`FastAPI` `Django` `Next.js` `React` `React Native` `Pandas` `NumPy` `Plotly` `HuggingFace LLMs`
+`FastAPI` `Django` `Next.js` `Tailwind CSS` `React` `React Native` `Pandas` `NumPy` `Plotly` `HuggingFace LLMs`
 
 **Databases**
 `PostgreSQL` `Oracle 19c` `MySQL` `MongoDB` `Redis` `BoltDB`
@@ -31,10 +31,10 @@ Software engineer with **2+ years** of industry experience building high-availab
 ## Experience
 
 ### Graduate Research Assistant — *Stony Brook University*
-`Jan 2025 – Present` · Python · Next.js · FastAPI · AWS · Docker
+`Jan 2025 – Present` · Python · Next.js · Next.js · FastAPI · AWS · Docker
 
-- Built a **full-stack data platform** with JSON-driven architecture for automated frontend replication
-- Engineered **Python/Pandas pipelines** processing **100M+ Twitter records** — 50% throughput gain via vectorization & threading
+- Built a **full-stack data platform** using Next.js, Tailwind CSS and FastAPI
+- Engineered **Python/Pandas pipelines** processing **100M+ Twitter records**. Achieved 50% throughput gain via vectorization & threading
 - Developed a **multi-threaded BlueSky scraper** (8-thread concurrency) for automated daily CSV archival
 - Applied **Chi-Square & Z-Tests** + **LLMs** to model user happiness and personality trait predictions
 - Deployed containerized apps on **AWS EC2** via Docker, Nginx, and CI/CD pipelines
@@ -44,8 +44,8 @@ Software engineer with **2+ years** of industry experience building high-availab
 ### Associate Consultant — *Oracle Financial Services Software (OFSS)*
 `Jun 2022 – Jun 2024` · Java · PL/SQL · Oracle 19c · REST APIs · Jira
 
-- Maintained **Flexcube** UI components (Java/JS) supporting a **20M+ daily transaction** production environment
-- Wrote **PL/SQL packages** automating **1M+ daily records** — reduced operational workload by **40%**
+- Maintained **Flexcube** UI components (Java/JS) and supported a high-availability production environment that processed **20M+ daily transaction**  daily
+- Wrote **PL/SQL packages** automating **1M+ daily records** and reduced operational workload by **40%**
 - Designed **REST API integrations** across banking modules, improving delivery speed by **4×**
 - Resolved **10–20 high-priority UAT/production issues daily** using Jira & Git
 
@@ -57,7 +57,7 @@ Software engineer with **2+ years** of industry experience building high-availab
 `Golang · BoltDB · Multi-Paxos · 2PC`
 
 - Fault-tolerant **sharded distributed system** with **Multi-Paxos** consensus & **Two-Phase Commit** for cross-shard atomicity
-- Custom benchmarking framework — peak throughput of **1,038 transactions/sec**
+- Designed a custom benchmarking framework, achieving a peak throughput of **1,038 transactions/sec**
 
 ### BagLocater
 `React Native · Django · Python · AES Encryption`
