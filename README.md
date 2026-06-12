@@ -34,7 +34,7 @@ Software engineer with **2+ years** of industry experience building high-availab
 ## Experience
 
 ### Graduate Research Assistant — *Stony Brook University*
-`Jan 2025 – May 2026` · Python · Go · Next.js · Tailwind CSS · Docker · Nginx · AWS (EC2) · Pandas
+`Jan 2025 – May 2026` · Python · Next.js · Tailwind CSS · Docker · Nginx · AWS (EC2) · Pandas
 
 - **Architected high-throughput data pipelines** in Python utilizing vectorized Pandas operations to process a **100M+** record dataset, boosting ingestion and processing throughput by **50%**.
 - **Engineered an automated, 8-thread distributed scraper** using the BlueSky API for daily data archival; containerized and deployed the stack on AWS EC2 using Docker and Nginx reverse proxying.
@@ -44,7 +44,7 @@ Software engineer with **2+ years** of industry experience building high-availab
 ---
 
 ### Associate Consultant (Software Engineer) — *Oracle Financial Services Software (OFSS)*
-`Jun 2022 – Jun 2024` · Java · Go · PL/SQL · Oracle 19c · REST APIs · Microservices · Git · Agile
+`Jun 2022 – Jun 2024` · Java · PL/SQL · Oracle 19c · REST APIs · Microservices · Git · Agile
 
 - **Developed high-availability backend services** for Flexcube core banking systems deployed globally, directly supporting transaction engines processing **20M+ daily transactions**.
 - **Optimized high-volume processing pipelines** by engineering custom PL/SQL packages, advanced database indexes, and query joins to handle **1M+ daily records**, reducing manual operational workload by **40%**.
